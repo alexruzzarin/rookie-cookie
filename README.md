@@ -10,15 +10,15 @@ Don't worry about real persistence, this is all client side stuff. Use your best
 If you have any questions, don't hesitate to ask! Keep it simple, this is not expected to take up an unreasonable amount of time!
 
 ### Bugs to Fix
-1. Images on the class cards don't all seem to work as expected. Some cards have them, some don't!
-2. Some class cards seem to cut off the text.
-3. Class cards should be in an evenly-distributed grid below the nav, but they are currently in a single column with no spacing!
-4. Clear the error that is coming up in the console. 
+1. [x] Images on the class cards don't all seem to work as expected. Some cards have them, some don't!
+2. [x] Some class cards seem to cut off the text.
+3. [x] Class cards should be in an evenly-distributed grid below the nav, but they are currently in a single column with no spacing!
+4. [x] Clear the error that is coming up in the console. 
 
 ### Features
-1. Add a way for a user to create new classes and add them to the list.
-2. Add a way for a user to cancel/delete a class.
-3. Using your favorite image api, give the user the ability to search for an image for their class. Don't have a favorite? Check out Unsplash, Pixabay, Bing, Giphy, or good ol' Google.
+1. [x] Add a way for a user to create new classes and add them to the list.
+2. [x] Add a way for a user to cancel/delete a class.
+3. [x] Using your favorite image api, give the user the ability to search for an image for their class. Don't have a favorite? Check out Unsplash, Pixabay, Bing, Giphy, or good ol' Google.
 
 ### Bonus
 Think of another cool feature to add? Want to play with the design? Feel free to play and show off! No pressure though!
