@@ -15,7 +15,7 @@
     "react-scripts": "3.4.4",
     "styled-components": "5.2.1",
     "styled-reboot": "5.0.0",
-    "swr": "0.3.7",
+    "swr": "0.3.8",
     "unsplash-js": "6.0.0",
     "use-persisted-state": "0.3.0"
   },
