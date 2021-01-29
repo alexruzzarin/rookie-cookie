@@ -16,7 +16,7 @@
     "styled-components": "5.2.1",
     "styled-reboot": "5.0.0",
     "swr": "0.3.11",
-    "unsplash-js": "6.0.0",
+    "unsplash-js": "7.0.4",
     "use-persisted-state": "0.3.3"
   },
   "devDependencies": {
